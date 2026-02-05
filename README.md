@@ -46,7 +46,7 @@ To group customers into meaningful segments using **unsupervised learning** and 
 
 ---
 
-## 📊 Algorithms & Techniques
+##  Algorithms & Techniques
 ### 🔹 K-Means Clustering
 - Distance Metric: Euclidean Distance  
 - Initialization: k-means++  
