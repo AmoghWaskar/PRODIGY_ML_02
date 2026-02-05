@@ -5,7 +5,7 @@ Additionally, the clustering quality is evaluated using the **Silhouette Score**
 
 ---
 
-## 📌 Dataset
+##  Dataset
 **Customer Segmentation Tutorial in Python** (Kaggle)
 
 🔗 https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
@@ -19,14 +19,14 @@ Additionally, the clustering quality is evaluated using the **Silhouette Score**
 
 ---
 
-## 🎯 Objective
+##  Objective
 To group customers into meaningful segments using **unsupervised learning** and validate the clustering performance using:
 - Elbow Method
 - Silhouette Score
 
 ---
 
-## 🧠 Methodology
+##  Methodology
 1. Load and explore the dataset  
 2. Select relevant features  
 3. Determine optimal number of clusters using **Elbow Method**  
@@ -37,7 +37,7 @@ To group customers into meaningful segments using **unsupervised learning** and 
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Python
 - NumPy
 - Pandas
@@ -63,7 +63,7 @@ To group customers into meaningful segments using **unsupervised learning** and 
 
 ---
 
-## 📈 Results
+##  Results
 - Optimal number of clusters selected: **5**
 - Silhouette Score confirms good cluster separation
 - Customers grouped into segments such as:
